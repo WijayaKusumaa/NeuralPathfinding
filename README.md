@@ -4,6 +4,7 @@
 Neural Pathfinding is an interactive, cyber-cybernetic 3D graph navigation game built using **React**, **Three.js (React Three Fiber)**, and **TypeScript**. Players act as system operators tasked with routing data packets through complex node networks from the start seed to the target core using the most efficient pathway.
 
 ---
+Play This Game: https://wijayakusumaa.github.io/NeuralPathfinding/
 
 ## 🚀 Key Features
 
